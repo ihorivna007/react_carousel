@@ -1,0 +1,2 @@
+.App{margin:20px}.App__labels{display:grid;grid-template-columns:repeat(2,200px)}.App__label:nth-child(odd){grid-row:1/2}.App__label:nth-child(2n){grid-row:3/4}.Carousel__list{display:flex;overflow:hidden;margin:20px auto;padding:20px 0;border:2px solid #544c31;border-radius:20px;background-color:#f8e194;list-style:none}.Carousel__image{display:flex;justify-content:center}.Carousel__buttons{display:flex;justify-content:space-around}.Carousel__button{padding:7px 25px}
+/*# sourceMappingURL=main.d7d7201b.chunk.css.map */
